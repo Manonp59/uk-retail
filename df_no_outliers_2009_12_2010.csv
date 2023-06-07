@@ -1,4 +1,4 @@
-NuméroClient,NombreCommandes,DateDerniereCommande,MontantEffectif,TransactionAnnulation,Récence,MontantGlobal,NombreArticlesTotal,PourcentageAnnulationMontant,NombreArticlesMoyenParCommande,PanierMoyen,Pays
+numero_client,nombre_commandes,date_derniere_commande,montant_effectif,transactions_annulation,nombre_jours_depuis_derniere_commande,montant_global,nombre_articles_y,pourcentage_annulation_montant,nombre_articles_moyen_par_commande,panier_moyen,pays
 12347.0,2.0,2010-12-07 14:57:00,2035.1100000000001,0.0,16,5633.32,3286.0,63.8737014762165,1643.0,2816.66,Iceland
 12348.0,2.0,2010-12-16 19:09:00,873.9599999999999,0.0,6,1658.4,2704.0,47.301013024602035,1352.0,829.2,Finland
 12349.0,2.0,2010-10-28 08:23:00,2196.99,1.0,56,3678.69,1621.0,40.2779250222226,810.5,1839.345,Italy
